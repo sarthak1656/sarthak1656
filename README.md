@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Sarthak Panigrahi 👋</h1>
 
-<h3 align="center">A Full Stack Developer residing in Odisha, India.</h3>
+<h4 align="center">A Full Stack Developer residing in Odisha, India.</h4>
 
 ## 🚀 Skills
 
