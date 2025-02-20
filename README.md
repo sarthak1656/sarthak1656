@@ -5,7 +5,7 @@
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nextjs,java,nextjs,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,react,nextjs,express,mongodb,java" />
 </p>
 
 ## 🔗 Socials
