@@ -17,4 +17,7 @@
   <a href="https://instagram.com/btwimsarthak/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://gmail.com/btwimsarthak/" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
