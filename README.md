@@ -44,6 +44,12 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 ## 🔗 Socials
@@ -58,10 +64,6 @@
   <a href="mailto:sarthaknsipun@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sarthak1656" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a>
+
+
 </p>
