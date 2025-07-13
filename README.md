@@ -11,8 +11,8 @@
 
 - 💻 I specialize in building full-stack web applications using **MERN Stack** & **Next.js**
 - 🚀 Currently working on multiple **real-world SaaS and EdTech projects**
-- 📚 I’m pursuing my **MCA** and constantly learning **DevOps** tools
-- ✍️ I write clean, scalable code and believe in **continual improvement**
+- 📚 Pursuing **MCA** and actively learning **DevOps tools**
+- ✍️ Passionate about writing clean, scalable code and solving real-world problems
 - 📫 Reach me at: **sarthaknsipun@gmail.com**
 
 ---
@@ -33,7 +33,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakpanigrahi&theme=radical&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak1656&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak1656&theme=radical&row=1&column=6"/>
 </p>
 
 ---
@@ -55,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakpanigrahi" />
+  <img src="https://komarev.com/ghpvc/?username=sarthak1656&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1656" />
 </p>
